@@ -1,75 +1,90 @@
-<h2 align="left">Hi 👋! My name is Kushagra Anand and I'm a passionate Full-stack Developer from India 🚀</h2>
-
-###
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake.svg" alt="GitHub Snake Game" height="150" />
-    </td>
-    <td>
-      <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/main/kushagra.gif?raw=true" height="150" alt="Animated GIF" />
-    </td>
-  </tr>
-</table>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-maker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-maker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!-- HEADER -->
+<div style="width: 100%; text-align: center;">
+  <h1>👋 Hi, I’m <a href="https://github.com/Kushagra-maker" target="_blank">Kushagra Anand</a></h1>
+  <p>🚀 Passionate Full-stack Developer from India</p>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-maker&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-maker&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" height="150" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/kushagra5478/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1085543135620378634" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:kushagranand12345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake.svg"
+       alt="GitHub Snake Game" width="900" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/kushagraanand12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+         alt="LinkedIn" height="35" />
   </a>
   <a href="https://x.com/kush1_agra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge"
+         alt="Twitter" height="35" />
   </a>
-</div>
+  <a href="https://discordapp.com/users/1085543135620378634" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge"
+         alt="Discord" height="35" />
+  </a>
+  <a href="mailto:kushagranand12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"
+         alt="Gmail" height="35" />
+  </a>
+  <a href="https://www.instagram.com/kushagra5478/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"
+         alt="Instagram" height="35" />
+  </a>
+</p>
 
-###
+---
 
-<p align="left">Hey Everyone!! Nice to meet you.</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Kushagra-maker/count.svg" alt="Profile Views" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kushagra-maker/count.svg?"  />
-</div>
+### 🚀 About Me
+- 🎓 Pursuing B.Tech in Information Technology at CUSAT (2022–2026) | CGPA: 9.44/10  
+- 💻 Full-stack Development | Distributed Systems | AI | Cloud Computing  
+- 📚 Lifelong learner passionate about scalable, impactful solutions  
+- 🌟 Advocate for open-source & collaborative projects  
 
-###
+---
+
+### 🌱 Currently Working On
+- Building **scalable web applications**  
+- Exploring **GenAI models**  
+
+---
+
+Thanks for stopping by—let’s connect! 😊
