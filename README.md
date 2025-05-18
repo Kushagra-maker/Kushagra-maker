@@ -1,6 +1,5 @@
-# 👋 Hi, I’m [Kushagra Anand](https://github.com/Kushagra-maker)
-
-🚀 Passionate Full-stack Developer from India
+# <h1 align="center"> 👋 Hi, I’m [Kushagra Anand](https://github.com/Kushagra-maker) </h1>
+<h3 align="center">🚀 Passionate Full-stack Developer</h3>
 
 ---
 
