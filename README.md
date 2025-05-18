@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Kushagra Anand and I'm a passionate Full-stack Developer from India 🚀</h2>
+
+###
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake.svg" alt="GitHub Snake Game" height="150" />
+    </td>
+    <td>
+      <img src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" height="150" alt="Animated GIF" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -48,14 +61,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1ODkyMzcsIm5iZiI6MTc0NzU4ODkzNywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDE3MjIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljZTQzYWY4NDAyOTZiNTMzMjA3OTBlYjkxY2U5Njc5ZmY2MGNhNjgzODQ3N2RkNWIyNzg4N2EyYmUwMjJjMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CgZ9FZmH5S1-ajeLHf9MbFAnkZacu_iFZT9nGfwBg6o"  />
-
-###
-
-<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 ###
 
