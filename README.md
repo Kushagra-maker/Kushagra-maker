@@ -34,11 +34,8 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake.svg"
-       alt="GitHub Snake Game" width="900" />
-</p>
-
+  ![snake gif](https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake-dark.svg)
+  
 ---
 
 ### 📫 Connect With Me
