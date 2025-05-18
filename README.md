@@ -8,7 +8,7 @@
       <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/output/github-snake.svg" alt="GitHub Snake Game" height="150" />
     </td>
     <td>
-      <img src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" height="150" alt="Animated GIF" />
+      <img src="https://github.com/Kushagra-maker/Kushagra-maker/blob/main/kushagra.gif?raw=true" height="150" alt="Animated GIF" />
     </td>
   </tr>
 </table>
